@@ -8,5 +8,7 @@
   "obsidian-git",
   "canvas-mindmap",
   "heading-decorator",
-  "simple-canvasearch"
+  "simple-canvasearch",
+  "obsidian-charts",
+  "obsidian-full-calendar"
 ]

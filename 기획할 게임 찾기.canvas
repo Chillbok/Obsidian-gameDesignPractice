@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"ea8a224560af3f90","type":"text","text":"## 20260119T0324\n\n[[2026-01-19]]까지 게임 시스템 기획을 해야 한다. 어떤 게임 기획을 할지 생각해봐야 한다.","x":-409,"y":-183,"width":457,"height":124}
+		{"id":"bcd82fc52a937057","type":"text","text":"## 20260119T0329\n\n게임 후보군을 골라봤다:\n\n- 하프라이프\n- 데스티니 가디언즈","x":-409,"y":29,"width":400,"height":198},
+		{"id":"ea8a224560af3f90","type":"text","text":"## 20260119T0324\n\n[[2026-01-19]]까지 게임 시스템 기획을 해야 한다. 어떤 게임 기획을 할지 생각해봐야 한다.","x":-409,"y":-182,"width":400,"height":124},
+		{"id":"72fa3bad8c533656","type":"text","text":"## 20260119T0330\n\n솔직히 데스티니가 좋을 것 같다. 내가 제일 많이 한 게임이기도 하고, 제일 애정이 있는 게임이기도 하기 때문이다.","x":-409,"y":309,"width":400,"height":159}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ce9f43ca43cddd90","fromNode":"ea8a224560af3f90","fromSide":"bottom","toNode":"bcd82fc52a937057","toSide":"top"},
+		{"id":"602a5a360cd6d064","fromNode":"bcd82fc52a937057","fromSide":"bottom","toNode":"72fa3bad8c533656","toSide":"top"}
+	]
 }
