@@ -5,18 +5,16 @@
   "newFileLocation": "root",
   "newFileFolderPath": "",
   "attachmentFolderPath": "Data/Assets",
-  "trashOption": "system",
+  "trashOption": "local",
   "strictLineBreaks": true,
   "vimMode": false,
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
   "pdfExportSettings": {
-    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
   },
-  "readableLineLength": true,
-  "defaultViewMode": "preview"
+  "readableLineLength": true
 }

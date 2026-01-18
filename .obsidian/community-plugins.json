@@ -6,8 +6,7 @@
   "calendar",
   "obsidian-front-matter-title-plugin",
   "obsidian-git",
+  "canvas-mindmap",
   "heading-decorator",
-  "simple-canvasearch",
-  "obsidian-full-calendar",
-  "obsidian-charts"
+  "simple-canvasearch"
 ]
