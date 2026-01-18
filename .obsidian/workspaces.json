@@ -1,0 +1,2404 @@
+{
+  "workspaces": {
+    "게임 기획 공부": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "99f1ec003aa1170b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41b5dd78a12d60f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 임시노트/25년 2학기 3주차 게임기획 스터디.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "25년 2학기 3주차 게임기획 스터디"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "20250911T1355",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": true,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "bases:새 베이스 생성하기": true,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true,
+          "random-note:무작위 노트 열기": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "zk-prefixer:새 고유 노트 생성": false
+        }
+      },
+      "active": "f9d4dddea6735345",
+      "mtime": "2025-09-27T05:03:59+09:00"
+    },
+    "제텔카스텐": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "e283a28a8f0953fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65791f7c1ee5d15f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. PARA/1. Project/제텔카스텐 기록 방식에 대한 연구.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "제텔카스텐 기록 방식에 대한 연구"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": false
+        }
+      },
+      "active": "65791f7c1ee5d15f",
+      "mtime": "2025-09-26T15:37:41+09:00"
+    },
+    "인공지능기초및실습": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "99f1ec003aa1170b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "238aacf341c3a712",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. PARA/1. Project/인공지능기초및실습/임시노트/인공지능기초및실습 4주차.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "인공지능기초및실습 4주차"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": true,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "bases:새 베이스 생성하기": true,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true,
+          "random-note:무작위 노트 열기": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "zk-prefixer:새 고유 노트 생성": false
+        }
+      },
+      "active": "238aacf341c3a712",
+      "mtime": "2025-09-23T13:48:15+09:00"
+    },
+    "블로그 글쓰기": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f959d501e483e50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99f8844c1b5bb94c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. 미분류 임시 노트/내가 게임 개발을 시작하게 된 계기가 뭘까.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "내가 게임 개발을 시작하게 된 계기가 뭘까"
+                }
+              },
+              {
+                "id": "f2ec9cd17043e3d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "게임의 예술성이란 무엇일까.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "게임의 예술성이란 무엇일까"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": false
+        }
+      },
+      "active": "f2ec9cd17043e3d1",
+      "mtime": "2025-09-23T00:56:44+09:00"
+    },
+    "응용프로그래밍": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "99f1ec003aa1170b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b3e3fcb8b697687",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 임시노트/응용프로그래밍 수업 정리.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "응용프로그래밍 수업 정리"
+                }
+              },
+              {
+                "id": "35e3085b38ac6cfd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "할 일 목록.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "할 일 목록"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "20250916T1711",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": true,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "bases:새 베이스 생성하기": true,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true,
+          "random-note:무작위 노트 열기": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "zk-prefixer:새 고유 노트 생성": false
+        }
+      },
+      "active": "0b3e3fcb8b697687",
+      "mtime": "2025-09-23T16:49:32+09:00"
+    },
+    "세계문학의이해": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "4c89f0a06b499dc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a71a7e0c4191a138",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home"
+                }
+              },
+              {
+                "id": "59ce0d482e15b04e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. PARA/1. Project/세계문학의이해 수업 노트.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "세계문학의이해 수업 노트"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 288
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true
+        }
+      },
+      "active": "59ce0d482e15b04e",
+      "mtime": "2025-09-30T11:36:12+09:00"
+    },
+    "견행학": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "4c89f0a06b499dc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ddaedc5ed04e0ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "견행학 수업 노트.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "견행학 수업 노트"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 288,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true
+        }
+      },
+      "active": "8ddaedc5ed04e0ff",
+      "mtime": "2025-10-05T21:02:23+09:00"
+    },
+    "아치 리눅스": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "8909d235ea75c4c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7a3fbd7d4239527f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "아치 리눅스 설치기.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "아치 리눅스 설치기"
+                }
+              },
+              {
+                "id": "160950746c672f20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VirtualBox 사용법.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "VirtualBox 사용법"
+                }
+              },
+              {
+                "id": "7b9ca7f4cd1931f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "리눅스 사용하는 법.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "리눅스 사용하는 법"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 288,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true
+        }
+      },
+      "active": "7a3fbd7d4239527f",
+      "mtime": "2025-10-05T03:22:03+09:00"
+    },
+    "정리중": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "4c89f0a06b499dc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7b7ebb71f6c2650d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "포트폴리오용 블로그 서비스 찾기.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "포트폴리오용 블로그 서비스 찾기"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 288
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "zk-prefixer:새 고유 노트 생성": false,
+          "random-note:무작위 노트 열기": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "bases:새 베이스 생성하기": false,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true
+        }
+      },
+      "active": "7b7ebb71f6c2650d",
+      "mtime": "2025-10-05T14:57:15+09:00"
+    },
+    "백준 문제 풀기": {
+      "main": {
+        "id": "227a69e074367665",
+        "type": "split",
+        "children": [
+          {
+            "id": "796c9a132a7c5060",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b62f580c23f8f986",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Assets/namespace 활용해서 인자로 특정 cs 파일 실행시키는 법.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "namespace 활용해서 인자로 특정 cs 파일 실행시키는 법"
+                }
+              },
+              {
+                "id": "d8080d565fec25bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. PARA/1. Project/Csharp 사용법.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Csharp 사용법"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9632f30426d8cc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "acc46a3320d5c9cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d4dddea6735345",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "ce096f5a2c866dc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "4de731f639c833d1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293
+      },
+      "right": {
+        "id": "a6871066b7f20280",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca3ba145d991b8eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "396d807268e27f4b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "백링크"
+                }
+              },
+              {
+                "id": "04c3305db5b51c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
+              },
+              {
+                "id": "6e3e6efe52d8070e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "1e6b9f1b865f498c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "개요"
+                }
+              },
+              {
+                "id": "cd1527886d0dea6f",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Memo/20250905T1919.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "dcccbfd8755b3145",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "c6d2e1b83ec63ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:빠른 전환기 열기": true,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": true,
+          "daily-notes:오늘의 일일 노트 열기": true,
+          "templates:템플릿 삽입": true,
+          "command-palette:명령어 팔레트 열기": true,
+          "bases:새 베이스 생성하기": true,
+          "homepage:Open homepage": false,
+          "obsidian-git:Open Git source control": true,
+          "random-note:무작위 노트 열기": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "audio-recorder:녹음 시작/정지": false,
+          "zk-prefixer:새 고유 노트 생성": false
+        }
+      },
+      "active": "d8080d565fec25bb",
+      "mtime": "2025-10-13T14:19:49+09:00"
+    }
+  },
+  "active": "세계문학의이해"
+}

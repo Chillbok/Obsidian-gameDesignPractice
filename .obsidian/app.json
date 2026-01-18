@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Data/Assets",
+  "trashOption": "system",
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "defaultViewMode": "preview"
+}

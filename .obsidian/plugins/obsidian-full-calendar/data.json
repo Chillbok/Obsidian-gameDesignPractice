@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#d400ff",
+      "url": "https://calendar.google.com/calendar/ical/acfe2a146627ce7f3c0bbce57a199c24282296b2c418d0f0da1c19d3180ee941%40group.calendar.google.com/private-81dee3bf8fcf252e590bdbb0238d842f/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#ff7b00",
+      "url": "https://calendar.google.com/calendar/ical/ebe91553bf2108f2ba162f934ce274a382a4b69abfdc052368d584115a7835a9%40group.calendar.google.com/private-7d58533ed4a7cdde1d308011b5aca0f8/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "listWeek"
+  },
+  "timeFormat24h": true
+}
